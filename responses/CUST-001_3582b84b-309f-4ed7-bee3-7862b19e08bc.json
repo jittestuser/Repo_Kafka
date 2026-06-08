@@ -1,0 +1,12 @@
+{
+    "message_id": "50e41e18-4ca1-426c-958f-1eb57a4d6780",
+    "request_id": "3582b84b-309f-4ed7-bee3-7862b19e08bc",
+    "timestamp": "2026-06-08T06:42:50.148761+00:00",
+    "customer_id": "CUST-001",
+    "name": "Alice Johnson",
+    "policy_number": "POL-1001",
+    "policy_name": "Comprehensive Health Cover",
+    "postcode": "EC1A 1BB",
+    "status": "SUCCESS",
+    "error": null
+}

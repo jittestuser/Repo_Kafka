@@ -1,0 +1,12 @@
+{
+    "message_id": "53f62127-5ca7-4d47-9933-90aa96bd9895",
+    "request_id": "30882f32-2c5e-4167-95be-5535d5b2db9a",
+    "timestamp": "2026-06-08T06:42:50.365941+00:00",
+    "customer_id": "CUST-003",
+    "name": "Carol Williams",
+    "policy_number": "POL-1007",
+    "policy_name": "Income Protection Plus",
+    "postcode": "WC2N 5DU",
+    "status": "SUCCESS",
+    "error": null
+}

@@ -1,0 +1,12 @@
+{
+    "message_id": "9444d408-ee0d-489b-9810-ab3590365ae1",
+    "request_id": "9440b034-9333-40b2-8e39-0b2d207343ec",
+    "timestamp": "2026-06-08T06:42:50.581178+00:00",
+    "customer_id": "CUST-005",
+    "name": "Eve Davis",
+    "policy_number": "POL-1010",
+    "policy_name": "Landlord Property Shield",
+    "postcode": "BS1 4DJ",
+    "status": "SUCCESS",
+    "error": null
+}

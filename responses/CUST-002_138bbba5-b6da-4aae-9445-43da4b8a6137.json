@@ -1,0 +1,12 @@
+{
+    "message_id": "fb6bac3f-a191-4d4d-8f17-e4238231d815",
+    "request_id": "138bbba5-b6da-4aae-9445-43da4b8a6137",
+    "timestamp": "2026-06-08T06:42:50.258205+00:00",
+    "customer_id": "CUST-002",
+    "name": "Bob Smith",
+    "policy_number": "POL-1004",
+    "policy_name": "Motor Vehicle Full Cover",
+    "postcode": "E1 6AN",
+    "status": "SUCCESS",
+    "error": null
+}

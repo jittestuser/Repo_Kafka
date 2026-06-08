@@ -1,0 +1,12 @@
+{
+    "message_id": "23e491ca-8b94-465b-b5ab-08b36421a475",
+    "request_id": "a5e9a4d8-7c6a-47e8-b065-b8f489057e3c",
+    "timestamp": "2026-06-08T06:42:50.471738+00:00",
+    "customer_id": "CUST-004",
+    "name": "David Brown",
+    "policy_number": "POL-9999",
+    "policy_name": null,
+    "postcode": null,
+    "status": "NOT_FOUND",
+    "error": "No policy found for policy_number=POL-9999"
+}
